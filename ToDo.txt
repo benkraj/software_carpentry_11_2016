@@ -5,3 +5,4 @@ Conversion functions needed:
 - Feet to Inches
 - Meters to Furlongs
 - Degrees to Radians
+- I want to implement all the conversion tools somehow.
